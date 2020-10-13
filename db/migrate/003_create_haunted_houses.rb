@@ -1,3 +1,3 @@
 # Create your haunted_houses migration here
-class HauntedHouses 
+class HauntedHouses
 end 
