@@ -2,6 +2,6 @@
 class HauntedHouses < ActiveRecord::Migration
   def change
     create_table
-    end 
-  end 
+    end
+  end
 end
