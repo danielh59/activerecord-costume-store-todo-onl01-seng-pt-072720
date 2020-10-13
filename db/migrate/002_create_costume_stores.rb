@@ -11,5 +11,5 @@ class CostumeStores < ActiveRecord::Migration[5.1]
       h.string :opening_time
       h.string :closing_time
   end
-end 
+end
 end
