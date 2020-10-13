@@ -5,6 +5,7 @@ class HauntedHouses < ActiveRecord::Migration
       k.string :name
       k.string :location
       k.string :theme
+      k.integer :price
     end
   end
 
