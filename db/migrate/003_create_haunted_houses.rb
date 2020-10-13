@@ -7,6 +7,8 @@ class HauntedHouses < ActiveRecord::Migration
       k.string :theme
       k.integer :price
       k.boolean :family_friendly
+      k.string :opening_date
+      k.string :closing_date
     end
   end
 
